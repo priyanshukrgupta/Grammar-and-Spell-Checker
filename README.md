@@ -38,8 +38,7 @@ grammar-spell-checker
 ├── Model.py
 ├── templates
 │     └── index.html
-├── screenshots
-│     └── interface.png
+│── interface.png
 └── README.md
 ```
 
