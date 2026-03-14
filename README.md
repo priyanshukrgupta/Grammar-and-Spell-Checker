@@ -84,7 +84,7 @@ http://127.0.0.1:5000
 
 ## 🖼️ Application Interface
 
-![Application Interface](screenshots/interface.png)
+![Application Interface](interface.png)
 
 ---
 
